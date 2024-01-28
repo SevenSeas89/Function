@@ -1,0 +1,2 @@
+# Function
+Practical function
